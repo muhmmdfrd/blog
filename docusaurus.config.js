@@ -16,8 +16,8 @@ const config = {
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   i18n: {
-    defaultLocale: "id",
-    locales: ["id"],
+    defaultLocale: "en",
+    locales: ["en"],
   },
   plugins: [
     [
@@ -54,19 +54,23 @@ const config = {
       style: "dark",
       links: [
         {
-          title: "Community",
+          title: "Keep in touch with me",
           items: [
             {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
+              label: "Github",
+              href: "https://github.com/muhmmdfrd",
             },
             {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
+              label: "Facebook",
+              href: "https://web.facebook.com/muhmmdfrd",
             },
             {
               label: "Twitter",
-              href: "https://twitter.com/docusaurus",
+              href: "https://twitter.com/bithubby",
+            },
+            {
+              label: "Instagram",
+              href: "https://www.instagram.com/muhmmdfrd_",
             },
           ],
         },
