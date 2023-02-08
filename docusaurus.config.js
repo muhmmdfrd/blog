@@ -42,7 +42,6 @@ const config = {
     ],
   ],
   themeConfig: {
-    image: "img/docusaurus-social-card.jpg",
     navbar: {
       title: "Bithubby",
       logo: {
