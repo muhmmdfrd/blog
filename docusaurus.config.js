@@ -33,6 +33,11 @@ const config = {
     [
       "classic",
       {
+        googleTagManager: {
+          containerId: "GTM-WT9HL7J",
+        },
+      },
+      {
         docs: false,
         blog: false,
         theme: {
