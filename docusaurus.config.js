@@ -33,15 +33,13 @@ const config = {
     [
       "classic",
       {
-        googleTagManager: {
-          containerId: "GTM-WT9HL7J",
-        },
-      },
-      {
         docs: false,
         blog: false,
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
+        },
+        googleTagManager: {
+          containerId: "GTM-WT9HL7J",
         },
       },
     ],
