@@ -45,6 +45,9 @@ const config = {
     ],
   ],
   themeConfig: {
+    metadata: [
+      { name: "keywords", content: "blog, story, article about life" },
+    ],
     navbar: {
       title: "Bithubby",
       logo: {
