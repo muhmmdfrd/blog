@@ -20,8 +20,8 @@ const config = {
     locales: ["en"],
   },
   plugins: [
+    "@jsplumb/docusaurus-plugin-statcounter",
     [
-      "@jsplumb/docusaurus-plugin-statcounter",
       "./plugins/blog-plugin",
       {
         id: "blog",
