@@ -1703,6 +1703,11 @@
     "@jridgewell/resolve-uri" "3.1.0"
     "@jridgewell/sourcemap-codec" "1.4.14"
 
+"@jsplumb/docusaurus-plugin-statcounter@^1.0.0":
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/@jsplumb/docusaurus-plugin-statcounter/-/docusaurus-plugin-statcounter-1.0.0.tgz#cb1bebdd546b4bfa29c5378b05444f444e9ad1d2"
+  integrity sha512-WWzl9NHQG26n6qnsH1MMUWwiXnL+JI9RlpNs3xri8Oa7Ys7/DpN750jlg2ovnd3/vT46Cu65dPVO1ngdNV7rMg==
+
 "@leichtgewicht/ip-codec@^2.0.1":
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/@leichtgewicht/ip-codec/-/ip-codec-2.0.4.tgz#b2ac626d6cb9c8718ab459166d4bb405b8ffa78b"

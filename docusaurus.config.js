@@ -21,6 +21,7 @@ const config = {
   },
   plugins: [
     [
+      "@jsplumb/docusaurus-plugin-statcounter",
       "./plugins/blog-plugin",
       {
         id: "blog",
@@ -45,6 +46,10 @@ const config = {
     ],
   ],
   themeConfig: {
+    statCounter: {
+      projectId: "12857747",
+      securityCode: "a7909409",
+    },
     metadata: [
       { name: "keywords", content: "blog, story, article about life" },
     ],
