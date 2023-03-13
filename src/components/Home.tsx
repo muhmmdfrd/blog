@@ -39,6 +39,15 @@ export function Home({ recentPosts }: HomeProps): JSX.Element {
             ))}
           </div>
         </div>
+        {/* <div className="row">
+          <div className="col col--5 col--offset-5">
+            <PaginatorNavLink
+              isNext
+              permalink="/blog/page/2"
+              title="Older Post"
+            />
+          </div>
+        </div> */}
       </div>
     </Layout>
   );
