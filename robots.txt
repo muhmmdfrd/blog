@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search
+Disallow: /tags
+Disallow: /authors
+Disallow: /category
+Disallow: /docs/latest
+Disallow: /docs/next
