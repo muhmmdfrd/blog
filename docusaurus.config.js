@@ -7,9 +7,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Bithubby Blog",
-  tagline: "Dinosaurs are cool",
+  tagline: "a bit story from your future hubby",
   favicon: "img/favicon.ico",
-  url: "https://bithubby.vercel.app",
+  url: "https://bithubby.com",
   baseUrl: "/",
   organizationName: "muhmmdfrd",
   projectName: "bithubby",
@@ -41,6 +41,12 @@ const config = {
         },
         googleTagManager: {
           containerId: "GTM-WT9HL7J",
+        },
+        sitemap: {
+          changefreq: "weekly",
+          priority: 0.5,
+          ignorePatterns: ["/tags/**"],
+          filename: "sitemap.xml",
         },
       },
     ],

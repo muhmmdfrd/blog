@@ -19,6 +19,7 @@
     "@docusaurus/plugin-client-redirects": "^2.3.1",
     "@docusaurus/plugin-content-blog": "^2.3.1",
     "@docusaurus/plugin-google-tag-manager": "^2.3.1",
+    "@docusaurus/plugin-sitemap": "^2.3.1",
     "@docusaurus/preset-classic": "2.3.1",
     "@jsplumb/docusaurus-plugin-statcounter": "^1.0.0",
     "@mdx-js/react": "^1.6.22",
